@@ -2,6 +2,7 @@
 # EX 2D Pattern Matching using Naive Approach.
 # Name  : Srikaran M
 # Reg no: 212223040206
+# Date: 04/08/2026
 ## AIM:
 To write a Java program to for given constraints.
 Given text string with length n and a pattern with length m, the task is to prints all occurrences of pattern in text.
